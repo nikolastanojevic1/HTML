@@ -2,15 +2,18 @@ h1 {
 	color: maroon;
 	text-align: center;
 	
+	
 }
 .ako {
 	display: inline-block;
 	float: left;
 	width: 150px;
-    height: 200px;
+    height: 180px;
     margin: 10px;
 	border: 3px dotted black;
-	margin-left: 180px;
+	margin-left: 133px;
+	padding: 30px;
+	text-align: center;
 	
 	
 }
