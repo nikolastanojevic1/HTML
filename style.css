@@ -27,3 +27,23 @@ body {
 		background-repeat: repeat-y;
 		background-position: right top;
 }
+
+a:link {
+		color: red;
+		text-decoration: none;
+}
+
+a:visited {
+		color: green;
+		text-decoration: none;
+}
+
+a:hover {
+		color: red;
+		text-decoration: underline;
+}
+
+a:active {
+		color:blue;
+		text-decoration: underline;
+}
