@@ -47,3 +47,6 @@ a:active {
 		color:blue;
 		text-decoration: underline;
 }
+p {
+	text-align: justify;
+}
