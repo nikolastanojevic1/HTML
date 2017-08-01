@@ -1,7 +1,8 @@
 h1 { 
 	color: maroon;
 	text-align: center;
-	
+	text-shadow: 3px 2px maroon;
+	font-size: 40px;
 	
 }
 .ako {
